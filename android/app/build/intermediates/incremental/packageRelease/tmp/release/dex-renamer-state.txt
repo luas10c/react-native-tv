@@ -1,0 +1,4 @@
+#Sat Oct 07 08:02:24 BRT 2023
+base.0=/home/luciano/Documentos/tv/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

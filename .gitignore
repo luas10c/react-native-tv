@@ -1,0 +1,9 @@
+node_modules
+
+.vscode/**
+!.vscode/settings.json
+
+.env*
+!.env.example
+
+android/app/build/outputs/apk
